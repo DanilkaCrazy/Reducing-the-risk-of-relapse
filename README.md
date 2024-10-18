@@ -22,6 +22,7 @@ Datasets: https://disk.yandex.ru/d/FFfljjMKxa-K8g
   
 ### Таблица сравнения способов:
 ![Screenshot_2](https://github.com/user-attachments/assets/658b164f-6508-40d9-8cc3-de3f36262686)
+Расширенный анализ конкурентов (с выводами и рекомендациями): https://disk.yandex.ru/i/8kfw2q6w81d9jg
 
 ### Описание критериев:
 - Эффективность: насколько хорошо метод предотвращает рецидивы.
