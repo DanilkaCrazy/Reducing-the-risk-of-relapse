@@ -94,6 +94,33 @@ Datasets: https://disk.yandex.ru/d/FFfljjMKxa-K8g
 
 ![Screenshot_16](https://github.com/user-attachments/assets/03e414fd-c97b-4a79-9791-597e1bf81117)
 
+Теперь возвращаемся назад в ["Аналитический центр"](https://portal.gdc.cancer.gov/analysis_page?app=):
+
+![Screenshot_17](https://github.com/user-attachments/assets/f7bc2444-b435-470e-b14f-8f4bc93d2429)
+
+Итак, становится очевидным, что количество кейсов поменялось - их стало меньше, из-за того что мы сократили выборку. Изначально нам доступны абсолютно все кейсы по всем данным. Это сделано для того, чтобы постоянно не приходилось нажимать абсолютно на все галочки (поверьте, это очень трудно).
+
+Переходим к визуализациям - самый важный и интересный этап. Почему важный? Помогает докопаться до сути и быстро понять представленные данные. 
+
+![Screenshot_18](https://github.com/user-attachments/assets/7bf66c68-609d-425e-9684-2c1e46ffc446)
+
+И вот, графики уже перед нами. Можно спуститься чуть ниже и посмотреть информацию по генам.
+
+![Screenshot_19](https://github.com/user-attachments/assets/002d9f27-1def-4067-9d87-e6d63fb89d08)
+
+Предлагаю заглянуть еще и кластеризацию экспрессии генов:
+
+![Screenshot_20](https://github.com/user-attachments/assets/20bcf4b7-4914-4a1e-b860-52aee3e2e356)
+
+Тут нас ожидает тепловая матрица корреляции. Но данных в ней ужасно много и лучше сократить их объем:
+
+![Screenshot_6](https://github.com/user-attachments/assets/9139cc79-f1b3-47ea-9e91-305f1b0d9d05)
+
+
+
+
+
+
 
 
 
