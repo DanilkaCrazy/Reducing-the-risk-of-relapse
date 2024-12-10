@@ -86,6 +86,14 @@ Datasets: https://disk.yandex.ru/d/FFfljjMKxa-K8g
 
 ![Screenshot_13](https://github.com/user-attachments/assets/0fda9bd9-fd9e-4403-a817-2a41b5069adf)
 
+И вот мы нажали на ["Cohort Builder"](https://portal.gdc.cancer.gov/analysis_page?app=CohortBuilder&tab=general) и видим следующие общие данные:
+
+![Screenshot_15](https://github.com/user-attachments/assets/8627cc82-367b-4e4d-bf3b-87d5347b241c)
+
+Если вы понимаете английский на среднем уровне, проблем возникать с переводом не должно. В случае, если вы используете Google - пользуйтесь встроенным переводчиком. Итак, о чем это я? Да. Точно. Переходим в ["Avalaible Data"](https://portal.gdc.cancer.gov/analysis_page?app=CohortBuilder&tab=available_data). Меня интересуют следующие методы, например, RNA-seq (RNA Sequencing) — секвенирование РНК и WGS (Whole Genome Sequencing) — полногеномное секвенирование. Я их выбрал (для просмотра всех данных потребуется нажать "more" - далее):
+
+![Screenshot_16](https://github.com/user-attachments/assets/03e414fd-c97b-4a79-9791-597e1bf81117)
+
 
 
 
