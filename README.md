@@ -74,6 +74,17 @@ Datasets: https://disk.yandex.ru/d/FFfljjMKxa-K8g
 
 Атлас ракового генома (англ. The Cancer Genome Atlas, TCGA) или АРГ — проект, целью которого является систематизация данных о генетических мутациях, приводящих к возникновению рака. Систематизация проводится с помощью секвенирования и методов биоинформатики. Данный проект — совместная работа Национального Института Рака и Института Исследований Генома Человека, США. Подробнее можно почитать в [Википедии](https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B3%D0%B5%D0%BD%D0%BE%D0%BC%D0%B0).
 
+После перехода на сайт, обратим внимание на встречающий нас экран. Нужно немного спуститься ниже. Нажать на кнопку ["Access Data"](https://portal.gdc.cancer.gov/).
+
+![Screenshot_11](https://github.com/user-attachments/assets/35dc8fcb-382d-4249-9440-d4cfb776971f)
+
+Сверху слева переходим в ["Аналитический центр"](https://portal.gdc.cancer.gov/analysis_page?app=):
+
+![Screenshot_12](https://github.com/user-attachments/assets/64d33a2f-3d69-4cde-a564-ecdcffca558f)
+
+
+
+
 
 
 
