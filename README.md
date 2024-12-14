@@ -151,6 +151,10 @@ Datasets: https://disk.yandex.ru/d/FFfljjMKxa-K8g
 
 ![Screenshot_28](https://github.com/user-attachments/assets/89cdb97a-ffba-4120-a53c-4d8dd01921cf)
 
+## Выявленные гены
+
+![Screenshot_2](https://github.com/user-attachments/assets/46bb657a-2334-4b8f-bdb9-c823471d62e0)
+
 
 
 
